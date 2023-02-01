@@ -1,0 +1,28 @@
+body{
+    background-image: url("/assets/images/home.jpg");
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container{
+    color: rgb(111, 193, 221);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top:180px;
+    padding-left: 400px;
+}
+
+h1{
+    font-size:100px;
+}
+
+h5{
+    font-size: 40px;
+    padding-left: 90px;
+}
+h6{
+    font-size: 30px;
+    padding-left: 130px;
+}
